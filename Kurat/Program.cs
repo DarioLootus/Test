@@ -1,4 +1,4 @@
-﻿namespace Test_nr_2
+﻿namespace Test_nr_3
 {
     internal class Program
     {
